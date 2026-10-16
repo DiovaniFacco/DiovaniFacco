@@ -71,7 +71,6 @@ A **multi-tenant, white-label platform** to discover sports venues and book cour
 
 <div align="center">
 
-![DiovaniFacco's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiovaniFacco&show_icons=true&hide_border=true&include_all_commits=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true)
 
 </div>
