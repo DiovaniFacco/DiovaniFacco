@@ -66,11 +66,9 @@ More on my [repositories](https://github.com/DiovaniFacco?tab=repositories).
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/FF7A18/DiovaniFacco" alt="Diovani Facco's contribution graph" />
+<img width="100%" src="assets/contributions.svg" alt="Diovani Facco's contribution graph" />
 
 <br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DiovaniFacco&hide_border=true&theme=dark&background=0D1117&ring=FF7A18&fire=FF4500&currStreakLabel=FF9A3C&sideLabels=E6E6E6&dates=8B949E)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true&langs_count=6&hide=javascript,typescript,html,python,css,scss,shell,dockerfile,powershell&theme=dark&title_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
 
