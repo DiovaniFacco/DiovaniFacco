@@ -2,7 +2,7 @@
 
 # Hi, I'm Diovani Facco 👋
 
-**Full-stack developer** — I build products end to end, from database schema and business rules to the interface people actually use.
+**PHP / Laravel back-end developer** — I build products end to end, from the database schema and business rules to the interface people actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diovani--facco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diovani-facco-3a247b11a/)
 [![Email](https://img.shields.io/badge/Email-diovanifacco@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:diovanifacco@gmail.com)
@@ -11,67 +11,69 @@
 
 ---
 
+## 🐘 Main language
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
 ## 🧑‍💻 About me
 
-I'm a developer focused on **web and mobile products with real business logic behind them** — scheduling, permissions, dynamic pricing, concurrency. I care about code that's tested, documented and ready for someone else to pick up.
+I work mostly with **PHP and Laravel**, designing REST APIs, domain models and database schemas — the kind of business logic that has to be *correct*: scheduling, permissions, dynamic pricing, concurrency.
 
-- 🔭 Currently building a **white-label sports court booking platform** (Laravel + Expo).
-- 🎯 Strong points: REST API design, domain modeling, business rules, and clean cross-platform UI.
+- 🔭 Currently building back-end services in **PHP/Laravel**, paired with cross-platform front-ends (Expo / React Native).
+- 🎯 Strong points: REST API design, domain modeling, business rules and clean cross-platform UI.
 - 🧪 I write tests for the tricky parts — concurrency, authorization, pricing — not just the happy path.
 - 🐳 I ship with Docker and deploy to Railway.
 
 ## 🛠️ Tech stack
 
-**Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**Back-end — where I focus**
+
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-0F172A)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?logo=phpunit&logoColor=white)
 
-**Frontend & Mobile**
+**Front-end & mobile**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 
 **Tooling & infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 
-## 🚀 Featured projects
+## 📌 A few projects
 
-### 🏟️ Sports Court Booking Platform
-A **multi-tenant, white-label platform** to discover sports venues and book courts, with a full manager dashboard.
+- **[ponto-guardian](https://github.com/DiovaniFacco/ponto-guardian)** — desktop app (Electron + TypeScript) that watches your workday and lets you clock in straight from the tray.
+- **[querylab-2](https://github.com/DiovaniFacco/querylab-2)** — ask a question in plain language and get SQL, the results and an explanation back.
+- **[finza-telegram](https://github.com/DiovaniFacco/finza-telegram)** — Telegram bot that turns text, voice and receipts into tracked expenses, with a web dashboard.
+- **[JardimBotanico](https://github.com/DiovaniFacco/JardimBotanico)** — installable PWA for the UFSM Botanical Garden: interactive plant map and visit scheduling.
 
-<table>
-<tr><td width="50%" valign="top">
+More on my [repositories](https://github.com/DiovaniFacco?tab=repositories).
 
-**⚙️ Backend** — [`DiovaniFacco/back`](https://github.com/DiovaniFacco/back)
-- Laravel 12 · PostgreSQL 16 · Sanctum · Docker
-- **Concurrency-safe bookings** (row lock + transaction) — no double-booking
-- Dynamic pricing (peak hours + holidays), multi-shift hours, blockouts, recurring fixed schedules
-- 4 roles with venue-scoped employee permissions
-- **56 automated tests**
-
-</td><td width="50%" valign="top">
-
-**📱 Frontend** — [`DiovaniFacco/front`](https://github.com/DiovaniFacco/front)
-- Expo 57 · React Native 0.86 · React 19
-- Ships to **Web (PWA), iOS and Android** from one codebase
-- DateTime availability, booking flow and manager dashboard
-- **White-label by subdomain**, simplified mode, secure token storage
-
-</td></tr>
-</table>
-
-## 📊 GitHub stats
+## 📊 GitHub
 
 <div align="center">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true)
+<img width="100%" src="https://ghchart.rshah.org/FF7A18/DiovaniFacco" alt="Diovani Facco's contribution graph" />
+
+<br/>
+
+![DiovaniFacco's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiovaniFacco&show_icons=true&hide_border=true&include_all_commits=true&theme=dark&title_color=FF7A18&icon_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiovaniFacco&hide_border=true&theme=dark&background=0D1117&ring=FF7A18&fire=FF4500&currStreakLabel=FF9A3C&sideLabels=E6E6E6&dates=8B949E)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true&langs_count=6&hide=javascript,typescript,html,python,css,scss,shell,dockerfile,powershell&theme=dark&title_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
 
 </div>
 
