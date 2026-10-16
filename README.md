@@ -66,10 +66,6 @@ More on my [repositories](https://github.com/DiovaniFacco?tab=repositories).
 
 <div align="center">
 
-<img width="100%" src="assets/contributions.svg" alt="Diovani Facco's contribution graph" />
-
-<br/>
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true&langs_count=6&exclude_repo=Re.Brinque-Back-End_grupo_7,SportsF-front,ponto-guardian,querylab-2&hide=dockerfile,mako,procfile,python,shell&theme=dark&title_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
 
 </div>
