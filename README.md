@@ -70,7 +70,6 @@ More on my [repositories](https://github.com/DiovaniFacco?tab=repositories).
 
 <br/>
 
-![DiovaniFacco's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiovaniFacco&show_icons=true&hide_border=true&include_all_commits=true&theme=dark&title_color=FF7A18&icon_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DiovaniFacco&hide_border=true&theme=dark&background=0D1117&ring=FF7A18&fire=FF4500&currStreakLabel=FF9A3C&sideLabels=E6E6E6&dates=8B949E)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiovaniFacco&layout=compact&hide_border=true&langs_count=6&hide=javascript,typescript,html,python,css,scss,shell,dockerfile,powershell&theme=dark&title_color=FF7A18&text_color=E6E6E6&bg_color=0D1117)
